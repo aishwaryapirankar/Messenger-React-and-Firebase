@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Deployed at https://fb-messenger-d5936.web.app
+
 ## Available Scripts
 
 In the project directory, you can run:
